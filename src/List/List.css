@@ -1,0 +1,28 @@
+body {
+  background: #f28ab2;
+}
+.listContainer {
+  background: #fff;
+  border-radius: 1.875rem;
+  padding: 3.06rem 2.62rem;
+  margin-top: 3.31rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70vw;
+  font-family: 'Source Sans 3', sans-serif;
+  box-shadow: 65px 57px 39px 1px rgba(0, 0, 0, 0.1);
+  max-width: 21rem;
+}
+.list {
+  /* height: 70%; */
+  /* border: solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width:100% ;
+  margin-top: 3.06rem;
+  margin-bottom: 3.06rem;
+  gap: .7rem;
+
+}
+

@@ -1,0 +1,23 @@
+.person {
+  display: flex;
+  gap: 2.12rem;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.person img {
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  border-radius: 6.25rem;
+}
+.name{
+    font-size: 0.875rem;
+    text-transform: capitalize;
+    padding-bottom: 0.2rem;
+}
+.age{
+    font-size: 0.6875rem;
+    color: #808080;
+    
+}
